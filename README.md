@@ -168,5 +168,6 @@ It reflects a real-world pipeline used in **image preprocessing systems, photogr
 
 ## 📌 Author
 
-**Md Saad Alam**
-🚀 Aspiring Software Engineer | AI & ML Enthusiast
+**Md Saad Alam** 🚀
+AI-First Software Engineer | Machine Learning, Data Science & Scalable Systems
+
